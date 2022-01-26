@@ -11,3 +11,4 @@ This repository is dedicated to posting the data and Jupyter notebooks used in m
 
 **Chapter 5: Models for Claim Dependence**
 
+Some of the code may not be "Pythonic", but if you have any questions feel free to write. 
