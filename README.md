@@ -14,4 +14,5 @@ This repository is dedicated to posting the data and Jupyter notebooks used in m
 Some of the code may not be "Pythonic", but if you have any questions feel free to get in touch. I should post the PDF of the dissertation in the next few weeks, along with a LaTex citation.
 
 Best, 
-Roberto Carcache Flores 
+
+*Roberto Carcache Flores* 
