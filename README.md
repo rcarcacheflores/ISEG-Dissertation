@@ -1,4 +1,4 @@
-# ISEG-Dissertation
+# ISEG Actuarial Science Master's Final Work
 
 ![logo1](assets/pls_tvar.png)
 
