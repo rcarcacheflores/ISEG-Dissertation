@@ -11,7 +11,7 @@ This repository is dedicated to posting the data and Jupyter Notebooks used in m
 
 **Chapter 5: Models for Claim Dependence**
 
-Some of the code may not be "Pythonic", but if you have any questions feel free to get in touch. For the full PDF of my dissertation [click here for access](https://www.repository.utl.pt/handle/10400.5/23972?locale=en)
+Some of the code may not be "Pythonic", but if you have any questions feel free to get in touch. For the full PDF of my dissertation [click here for access](https://www.repository.utl.pt/handle/10400.5/23972?locale=en).
 
 Best, 
 
